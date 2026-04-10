@@ -1,6 +1,6 @@
 {
   "name": "Centry: Logging hub",
-  "version": "0.1",
+  "version": "0.2",
   "depends_on": [],
   "init_after": []
 }
