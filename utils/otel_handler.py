@@ -152,7 +152,6 @@ class OTELLogBridge:
             'plugins.secrets': 'pylon-main',
             'plugins.scheduling': 'pylon-main',
             'plugins.social': 'pylon-main',
-            'plugins.theme': 'pylon-main',
             'elitea_sdk': 'pylon-indexer',
             'langchain': 'pylon-indexer',
             'litellm': 'pylon-predicts',
